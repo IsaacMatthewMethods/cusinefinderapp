@@ -6,7 +6,7 @@
     "build": "next build",
     "deploy": "firebase deploy",
     "dev": "next dev",
-    "export": "next build && next export",
+    "export": "next build",
     "lint": "next lint",
     "start": "next start"
   },
